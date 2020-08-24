@@ -1,0 +1,142 @@
+[Main]
+SizeX=5595
+SizeY=3225
+[1]
+Name=LabelNIK
+Type=JLabel
+Value=NIK
+X= 120
+Y= 120
+SizeX= 1080
+SizeY= 360
+[2]
+Name=LabelNamaKaryawan
+Type=JLabel
+Value=Nama Karyawan
+X= 120
+Y= 600
+SizeX= 1080
+SizeY= 360
+[3]
+Name=LabelJabatan
+Type=JLabel
+Value=Jabatan
+X= 120
+Y= 1080
+SizeX= 1080
+SizeY= 360
+[4]
+Name=LabelAlamat
+Type=JLabel
+Value=Alamat
+X= 120
+Y= 1560
+SizeX= 1080
+SizeY= 360
+[5]
+Name=LabelEmail
+Type=JLabel
+Value=Email
+X= 120
+Y= 2040
+SizeX= 1080
+SizeY= 360
+[6]
+Name=LabelNomorTelepon
+Type=JLabel
+Value=Nomor Telepon
+X= 120
+Y= 2520
+SizeX= 1080
+SizeY= 360
+[7]
+Name=LabelTD1
+Type=JLabel
+Value=:
+X= 2280
+Y= 120
+SizeX= 240
+SizeY= 360
+[8]
+Name=LabelTD2
+Type=JLabel
+Value=:
+X= 2280
+Y= 600
+SizeX= 240
+SizeY= 360
+[9]
+Name=LabelTD3
+Type=JLabel
+Value=:
+X= 2280
+Y= 1080
+SizeX= 240
+SizeY= 360
+[10]
+Name=LabelTD4
+Type=JLabel
+Value=:
+X= 2280
+Y= 1560
+SizeX= 240
+SizeY= 360
+[11]
+Name=LabelTD5
+Type=JLabel
+Value=:
+X= 2280
+Y= 2040
+SizeX= 240
+SizeY= 360
+[12]
+Name=LabelTD6
+Type=JLabel
+Value=:
+X= 2280
+Y= 2520
+SizeX= 240
+SizeY= 360
+[13]
+Name=TextNIK
+Type=JTextField
+X= 2400
+Y= 120
+SizeX= 3000
+SizeY= 360
+[14]
+Name=TextNamaKaryawan
+Type=JTextField
+X= 2400
+Y= 600
+SizeX= 3000
+SizeY= 360
+[15]
+Name=cmbJabatan
+Type=JComboBox
+Value=Embedded System Programmer|Desktop Software Developer|IT Engineer|IT Programmer|Network Administrator|Database Administrator|Office Boy
+X= 2400
+Y= 1080
+SizeX= 3000
+SizeY= 360
+[16]
+Name=TextAlamat
+Type=JTextField
+X= 2400
+Y= 1560
+SizeX= 3000
+SizeY= 360
+[17]
+Name=TextEmail
+Type=JTextField
+X= 2400
+Y= 2040
+SizeX= 3000
+SizeY= 360
+[18]
+Name=TextNomorTelepon
+Type=JTextField
+X= 2400
+Y= 2520
+SizeX= 3000
+SizeY= 360
